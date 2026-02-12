@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tanishquppal220" alt="Tanishquppal220" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ tanishq_2506" target="blank"><img src="https://img.shields.io/twitter/follow/ tanishq_2506?logo=twitter&style=for-the-badge" alt=" tanishq_2506" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tanishq_2506" target="blank"><img src="https://img.shields.io/twitter/follow/ tanishq_2506?logo=twitter&style=for-the-badge" alt="tanishq_2506" /></a> </p>
 
 - 🌱 I'm currently learning **LSTM, Neural Networks, YOLOv8, Reinforcement Learning, Advanced DSA**
 
