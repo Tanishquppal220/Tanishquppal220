@@ -2,9 +2,10 @@
 
 ### Aspiring ML Engineer | BTech CSE Student | AI/Data Science Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tanishquppal220&label=Profile views&color=0e75b6&style=flat" alt="Tanishquppal220" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishquppal220&label=Profile%20views&color=0e75b6&style=flat" alt="tanishquppal220" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tanishquppal220" alt="Tanishquppal220" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishquppal220" alt="tanishquppal220" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/tanishq_2506" target="blank"><img src="https://img.shields.io/twitter/follow/ tanishq_2506?logo=twitter&style=for-the-badge" alt="tanishq_2506" /></a> </p>
 
