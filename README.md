@@ -15,7 +15,7 @@
 
 - 🌱 I'm currently learning **LSTM, Neural Networks, YOLOv8, Reinforcement Learning, Advanced DSA**
 
-- 👯 I'm looking to collaborate on **Open Source ML/AI projects and GSoC 2026**
+- 👯 I'm looking to collaborate on **Open Source ML/AI projects**
 
 - 💬 Ask me about **Python, Machine Learning, Data Science, Linux, C++, SQL, DSA**
 
